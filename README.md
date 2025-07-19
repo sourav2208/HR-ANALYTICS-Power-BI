@@ -4,7 +4,7 @@ This project focuses on analyzing employee attrition data to uncover key pattern
 
 ## 📌 Objective
 
-To identify the reasons behind employee attrition by analyzing trends across age, gender, salary, education, job role, and years at the company — and present them in a simple, visual dashboard to support HR decision-making.
+To identify the reasons behind employee attrition by analyzing trends across age, gender, salary, education, job role, and years at the company and present them in a simple, visual dashboard to support HR decision-making.
 
 ## 🔍 Key Insights
 
